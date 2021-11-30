@@ -1,0 +1,9 @@
+=========================================================================
+train warnings: these warn info may lead train error(accuracy loss), please check carefully
+=========================================================================
+训练警告： 这些警告信息可能导致训练误差，请务必仔细检查
+=========================================================================
+
+
+decode xml /tmp/train_temp_sipeed_compile_server_gpu3/datasets/datasets/xml/1083.xml fail, reason: no object in this iamge
+
